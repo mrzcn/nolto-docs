@@ -1,6 +1,6 @@
-# Nolto Bilişim - Üretici Teknik Dokümantasyon Merkezi (Documentation Hub)
+# Nolto Teknoloji - Üretici Teknik Dokümantasyon Merkezi (Documentation Hub)
 
-Bu depo, Nolto Bilişim tarafından desteklenen kurumsal telekomünikasyon ve VoIP üreticilerinin resmi, kamuya açık teknik dökümanlarını (Kullanım Kılavuzları, Yönetici Rehberleri, Veri Sayfaları / Datasheet, Hızlı Kurulum Kılavuzları) arşivlemek ve tek bir merkezden erişilebilir kılmak amacıyla oluşturulmuştur.
+Bu depo, Nolto Teknoloji tarafından desteklenen kurumsal telekomünikasyon ve VoIP üreticilerinin resmi, kamuya açık teknik dökümanlarını (Kullanım Kılavuzları, Yönetici Rehberleri, Veri Sayfaları / Datasheet, Hızlı Kurulum Kılavuzları) arşivlemek ve tek bir merkezden erişilebilir kılmak amacıyla oluşturulmuştur.
 
 > 💡 **Dosyaların Konumu:** GitHub standart Git depolarında yüzlerce megabaytlık PDF dosyalarının repo geçmişini şişirmemesi ve indirme hızlarının düşmemesi için dökümanlar doğrudan **GitHub Releases** CDN altyapısına yüklenmektedir. Sağ menüdeki **[Releases](https://github.com/mrzcn/nolto-docs/releases)** sekmesinden veya aşağıdaki doğrudan bağlantılardan tüm marka dökümanlarına ulaşabilir ve indirebilirsiniz.
 
