@@ -13,7 +13,8 @@ Bu depo, Nolto Teknoloji tarafından desteklenen kurumsal telekomünikasyon ve V
 | **Yealink** | `Yealink/` | **139+ Dosya** | [🔗 Yealink Dokümanlarını Görüntüle / İndir (v1.0-yealink)](https://github.com/mrzcn/nolto-docs/releases/tag/v1.0-yealink) |
 | **Fanvil** | `Fanvil/` | **132+ Dosya** | [🔗 Fanvil Dokümanlarını Görüntüle / İndir (v1.0-fanvil)](https://github.com/mrzcn/nolto-docs/releases/tag/v1.0-fanvil) |
 | **Flyingvoice** | `Flyingvoice/` | **135+ Dosya** | [🔗 Flyingvoice Dokümanlarını Görüntüle / İndir (v1.0-flyingvoice)](https://github.com/mrzcn/nolto-docs/releases/tag/v1.0-flyingvoice) |
-| **AudioCodes** | `AudioCodes/` | **249+ Dosya** | [🔗 AudioCodes Dokümanlarını Görüntüle / İndir (v1.0-audiocodes)](https://github.com/mrzcn/nolto-docs/releases/tag/v1.0-audiocodes) |
+| **AudioCodes** | `AudioCodes/` | **350+ Dosya** | [🔗 AudioCodes Dokümanlarını Görüntüle / İndir (v1.0-audiocodes)](https://github.com/mrzcn/nolto-docs/releases/tag/v1.0-audiocodes) |
+| **Diğer Markalar** | `Diger_Markalar/` | **58+ Dosya** | [🔗 Diğer Markalar Dokümanlarını Görüntüle / İndir (v1.0-other-brands)](https://github.com/mrzcn/nolto-docs/releases/tag/v1.0-other-brands) |
 
 ---
 
@@ -39,6 +40,14 @@ Bu depo, Nolto Teknoloji tarafından desteklenen kurumsal telekomünikasyon ve V
 - **SBC & Mediant Serisi:** Mediant 500, 800, 1000, 2000, Virtual Edition (VE) ve Server Edition.
 - **IP Telefonlar:** 400HD serisi (405, 420HD, 440HD, 445HD, 450HD, C450HD, C470HD).
 - **Yazılım & Yönetim:** ARM (Routing Manager), One Voice Operations Center (OVOC), Live Cloud for Teams.
+
+
+### 5. Diğer Markalar ([Dokümanları İncele](https://github.com/mrzcn/nolto-docs/releases/tag/v1.0-other-brands))
+- **LVSwitch:** H680, IP PBX6000, T880, AutoProvision resmi kullanıcı ve yönetici kılavuzları.
+- **Zycoo:** IP Voice & Unified IP Audio çözümleri ve ürün katalogları.
+- **Gaoke & Vogtec:** Kullanım kılavuzları ve SIP santral konfigürasyon rehberleri.
+- **Baudcom & Kntech:** PAGA sistem ve optik çoklayıcı (multiplexer) veri sayfaları.
+- **Escene:** ES Serisi IP telefon kullanıcı rehberleri.
 
 ---
 *Tüm dökümanlar ilgili üreticilerin resmi kamuya açık yayınlarıdır ve teknik destek amacıyla arşivlenmiştir.*
