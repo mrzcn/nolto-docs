@@ -1,40 +1,44 @@
-# Nolto Bilişim ve Telekomünikasyon — Dökümantasyon Havuzu
+# Nolto Bilişim - Üretici Teknik Dokümantasyon Merkezi (Documentation Hub)
 
-Bu depo, **Nolto Bilişim ve Telekomünikasyon** tarafından sağlanan kurumsal telekomünikasyon ürünlerine ait **herkese açık resmi kullanım kılavuzları, kurulum rehberleri ve teknik veri sayfalarını** içermektedir.
+Bu depo, Nolto Bilişim tarafından desteklenen kurumsal telekomünikasyon ve VoIP üreticilerinin resmi, kamuya açık teknik dökümanlarını (Kullanım Kılavuzları, Yönetici Rehberleri, Veri Sayfaları / Datasheet, Hızlı Kurulum Kılavuzları) arşivlemek ve tek bir merkezden erişilebilir kılmak amacıyla oluşturulmuştur.
 
----
-
-## 🎧 AudioCodes Resmi Kullanım Kılavuzları ve Dökümanlar
-
-| Döküman Adı | Dosya Türü | İndirme / Görüntüleme |
-| :--- | :--- | :--- |
-| 0221-product-notice-guidelines-for-msbr-deployments-with-e-sbc-or-crp-functionality.pdf | PDF | [Görüntüle / İndir](./AudioCodes/0221-product-notice-guidelines-for-msbr-deployments-with-e-sbc-or-crp-functionality.pdf) |
-| 0245-product-notice-one-box-365-sysadmin-ver-636.pdf | PDF | [Görüntüle / İndir](./AudioCodes/0245-product-notice-one-box-365-sysadmin-ver-636.pdf) |
-| 0299-product-notice-release-of-audiocodes-cloudbond-365-version-725-and-user-management-pack-365-version-725.pdf | PDF | [Görüntüle / İndir](./AudioCodes/0299-product-notice-release-of-audiocodes-cloudbond-365-version-725-and-user-management-pack-365-version-725.pdf) |
-| 0308-product-notice-release-of-cloudbond-365-and-user-management-pack-365-ver-74.pdf | PDF | [Görüntüle / İndir](./AudioCodes/0308-product-notice-release-of-cloudbond-365-and-user-management-pack-365-ver-74.pdf) |
-| 0313-product-notice-release-of-audiocodes-cloudbond-365-and-user-management-pack-365-version-745.pdf | PDF | [Görüntüle / İndir](./AudioCodes/0313-product-notice-release-of-audiocodes-cloudbond-365-and-user-management-pack-365-version-745.pdf) |
-| 0361-product-notice-user-management-pack-365-ga-release-78100.pdf | PDF | [Görüntüle / İndir](./AudioCodes/0361-product-notice-user-management-pack-365-ga-release-78100.pdf) |
-| 400hd-ip-phone-series-administrator-s-manual-ver-3-4-6-teams-compatible.pdf | PDF | [Görüntüle / İndir](./AudioCodes/400hd-ip-phone-series-administrator-s-manual-ver-3-4-6-teams-compatible.pdf) |
-| 400hd-ip-phone-series-administrators-manual-ver-344-teams-compatible.pdf | PDF | [Görüntüle / İndir](./AudioCodes/400hd-ip-phone-series-administrators-manual-ver-344-teams-compatible.pdf) |
-| 400hd-series-ip-phone-administrators-manual-ver-2216.pdf | PDF | [Görüntüle / İndir](./AudioCodes/400hd-series-ip-phone-administrators-manual-ver-2216.pdf) |
-| 400hd-series-ip-phone-for-microsoft-skype-for-business-administrators-manual-ver-321.pdf | PDF | [Görüntüle / İndir](./AudioCodes/400hd-series-ip-phone-for-microsoft-skype-for-business-administrators-manual-ver-321.pdf) |
-| 400hd-series-ip-phones-administrator-s-manual-ver-3-4-4-generic-sip.pdf | PDF | [Görüntüle / İndir](./AudioCodes/400hd-series-ip-phones-administrator-s-manual-ver-3-4-4-generic-sip.pdf) |
-| 400hd-series-ip-phones-administrator-s-manual-ver-3-4-6-generic-sip.pdf | PDF | [Görüntüle / İndir](./AudioCodes/400hd-series-ip-phones-administrator-s-manual-ver-3-4-6-generic-sip.pdf) |
-| 405-and-405hd-ip-phone-users-manual-ver-2216.pdf | PDF | [Görüntüle / İndir](./AudioCodes/405-and-405hd-ip-phone-users-manual-ver-2216.pdf) |
-| 405-ip-phone-for-microsoft-skype-for-business-quick-guide.pdf | PDF | [Görüntüle / İndir](./AudioCodes/405-ip-phone-for-microsoft-skype-for-business-quick-guide.pdf) |
-| 405-ip-phone-quick-guide.pdf | PDF | [Görüntüle / İndir](./AudioCodes/405-ip-phone-quick-guide.pdf) |
-| 405hd-gbe-ip-phone-for-microsoft-skype-for-business-quick-guide-de.pdf | PDF | [Görüntüle / İndir](./AudioCodes/405hd-gbe-ip-phone-for-microsoft-skype-for-business-quick-guide-de.pdf) |
-| 405hd-gbe-ip-phone-for-microsoft-skype-for-business-quick-guide-pt.pdf | PDF | [Görüntüle / İndir](./AudioCodes/405hd-gbe-ip-phone-for-microsoft-skype-for-business-quick-guide-pt.pdf) |
-| 405hd-gbe-ip-phone-for-microsoft-skype-for-business-quick-guide.pdf | PDF | [Görüntüle / İndir](./AudioCodes/405hd-gbe-ip-phone-for-microsoft-skype-for-business-quick-guide.pdf) |
-| 405hd-gbe-ip-phone-quick-guide-de.pdf | PDF | [Görüntüle / İndir](./AudioCodes/405hd-gbe-ip-phone-quick-guide-de.pdf) |
-| 405hd-gbe-ip-phone-quick-guide.pdf | PDF | [Görüntüle / İndir](./AudioCodes/405hd-gbe-ip-phone-quick-guide.pdf) |
-| 405hd-ip-phone-for-microsoft-skype-for-business-users-manual-ver-321.pdf | PDF | [Görüntüle / İndir](./AudioCodes/405hd-ip-phone-for-microsoft-skype-for-business-users-manual-ver-321.pdf) |
-| 420hd-ip-phone-users-manual-ver-2216.pdf | PDF | [Görüntüle / İndir](./AudioCodes/420hd-ip-phone-users-manual-ver-2216.pdf) |
-| 430hd-and-440hd-ip-phone-for-microsoft-skype-for-business-users-manual-ver-321.pdf | PDF | [Görüntüle / İndir](./AudioCodes/430hd-and-440hd-ip-phone-for-microsoft-skype-for-business-users-manual-ver-321.pdf) |
-| 430hd-and-440hd-ip-phone-users-manual-ver-2216.pdf | PDF | [Görüntüle / İndir](./AudioCodes/430hd-and-440hd-ip-phone-users-manual-ver-2216.pdf) |
-| 440hd-ip-phone-for-microsoft-skype-for-business-quick-guide.pdf | PDF | [Görüntüle / İndir](./AudioCodes/440hd-ip-phone-for-microsoft-skype-for-business-quick-guide.pdf) |
+> 💡 **Dosyaların Konumu:** GitHub standart Git depolarında yüzlerce megabaytlık PDF dosyalarının repo geçmişini şişirmemesi ve indirme hızlarının düşmemesi için dökümanlar doğrudan **GitHub Releases** CDN altyapısına yüklenmektedir. Sağ menüdeki **[Releases](https://github.com/mrzcn/nolto-docs/releases)** sekmesinden veya aşağıdaki doğrudan bağlantılardan tüm marka dökümanlarına ulaşabilir ve indirebilirsiniz.
 
 ---
 
-*Kurumsal İletişim:* [nolto.com](https://nolto.com)  
-*AudioCodes, Yealink, Fanvil ve Yeastar Kurumsal Telekomünikasyon Çözümleri*
+## 📁 Marka Dokümantasyon Paketleri
+
+| Marka | İlgili Klasör / Sürüm | Yayınlanan Doküman Sayısı | İndirme & Görüntüleme Bağlantısı |
+| :--- | :--- | :---: | :--- |
+| **Yealink** | `Yealink/` | **139+ Dosya** | [🔗 Yealink Dokümanlarını Görüntüle / İndir (v1.0-yealink)](https://github.com/mrzcn/nolto-docs/releases/tag/v1.0-yealink) |
+| **Fanvil** | `Fanvil/` | **132+ Dosya** | [🔗 Fanvil Dokümanlarını Görüntüle / İndir (v1.0-fanvil)](https://github.com/mrzcn/nolto-docs/releases/tag/v1.0-fanvil) |
+| **Flyingvoice** | `Flyingvoice/` | **135+ Dosya** | [🔗 Flyingvoice Dokümanlarını Görüntüle / İndir (v1.0-flyingvoice)](https://github.com/mrzcn/nolto-docs/releases/tag/v1.0-flyingvoice) |
+| **AudioCodes** | `AudioCodes/` | **249+ Dosya** | [🔗 AudioCodes Dokümanlarını Görüntüle / İndir (v1.0-audiocodes)](https://github.com/mrzcn/nolto-docs/releases/tag/v1.0-audiocodes) |
+
+---
+
+## 📂 Marka İçi Dizin Rehberleri
+
+### 1. Yealink ([Dokümanları İncele](https://github.com/mrzcn/nolto-docs/releases/tag/v1.0-yealink))
+- **IP Telefonlar:** T3 Serisi (T30, T31, T33), T4U Serisi (T42U, T43U, T46U, T48U), T5 Serisi (T53, T54W, T57W, T58W Pro), VP59 Akıllı Video Telefon.
+- **DECT Sistemler:** W70B, W80, W90 Multi-Cell kurulum ve yönetici kılavuzları.
+- **Video Konferans & Aksesuar:** MeetingEye 400/600/800, WPP20 kablosuz sunum dongle'ı, UH37 kulaklıklar.
+- **Yönetim:** Auto-provisioning, XML browser rehberleri, sertifikasyon dökümanları.
+
+### 2. Fanvil ([Dokümanları İncele](https://github.com/mrzcn/nolto-docs/releases/tag/v1.0-fanvil))
+- **Masaüstü & Otel Telefonları:** XU Serisi (X3U, X4U, X5U, X6U), V Serisi (V62), H Serisi otel telefonları (H5).
+- **İnterkom & Güvenlik:** i-Serisi video kapı telefonları (i16V, i32V, i55A, i57A, i66, i67).
+- **SIP Hoparlör & Ağ Geçidi:** PA3 SIP Paging ağ geçidi ve Linkvil serisi (W611W, CA400).
+
+### 3. Flyingvoice ([Dokümanları İncele](https://github.com/mrzcn/nolto-docs/releases/tag/v1.0-flyingvoice))
+- **Kablosuz & IP Telefonlar:** FIP11, FIP12, FIP14G, FIP15G, P10W, P22P serisi.
+- **VoIP Ağ Geçitleri (ATA):** FTA1101, FTA5101, FTA5102, G504, G508 analog santral ağ geçitleri.
+- **Router & PBX:** FWR7302, SR3000 rehberleri.
+
+### 4. AudioCodes ([Dokümanları İncele](https://github.com/mrzcn/nolto-docs/releases/tag/v1.0-audiocodes))
+- **SBC & Mediant Serisi:** Mediant 500, 800, 1000, 2000, Virtual Edition (VE) ve Server Edition.
+- **IP Telefonlar:** 400HD serisi (405, 420HD, 440HD, 445HD, 450HD, C450HD, C470HD).
+- **Yazılım & Yönetim:** ARM (Routing Manager), One Voice Operations Center (OVOC), Live Cloud for Teams.
+
+---
+*Tüm dökümanlar ilgili üreticilerin resmi kamuya açık yayınlarıdır ve teknik destek amacıyla arşivlenmiştir.*
