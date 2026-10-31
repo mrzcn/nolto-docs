@@ -14,6 +14,8 @@ Bu depo, Nolto Teknoloji tarafından desteklenen kurumsal telekomünikasyon ve V
 | **Fanvil** | `Fanvil/` | **132+ Dosya** | [🔗 Fanvil Dokümanlarını Görüntüle / İndir (v1.0-fanvil)](https://github.com/mrzcn/nolto-docs/releases/tag/v1.0-fanvil) |
 | **Flyingvoice** | `Flyingvoice/` | **135+ Dosya** | [🔗 Flyingvoice Dokümanlarını Görüntüle / İndir (v1.0-flyingvoice)](https://github.com/mrzcn/nolto-docs/releases/tag/v1.0-flyingvoice) |
 | **AudioCodes** | `AudioCodes/` | **350+ Dosya** | [🔗 AudioCodes Dokümanlarını Görüntüle / İndir (v1.0-audiocodes)](https://github.com/mrzcn/nolto-docs/releases/tag/v1.0-audiocodes) |
+| **Yeastar** | `Yeastar/` | **230+ Dosya** | [🔗 Yeastar Dokümanlarını Görüntüle / İndir (v1.0-yeastar)](https://github.com/mrzcn/nolto-docs/releases/tag/v1.0-yeastar) |
+| **Openvox** | `Openvox/` | **29+ Dosya** | [🔗 Openvox Dokümanlarını Görüntüle / İndir (v1.0-openvox)](https://github.com/mrzcn/nolto-docs/releases/tag/v1.0-openvox) |
 | **Diğer Markalar** | `Diger_Markalar/` | **58+ Dosya** | [🔗 Diğer Markalar Dokümanlarını Görüntüle / İndir (v1.0-other-brands)](https://github.com/mrzcn/nolto-docs/releases/tag/v1.0-other-brands) |
 
 ---
@@ -48,6 +50,16 @@ Bu depo, Nolto Teknoloji tarafından desteklenen kurumsal telekomünikasyon ve V
 - **Gaoke & Vogtec:** Kullanım kılavuzları ve SIP santral konfigürasyon rehberleri.
 - **Baudcom & Kntech:** PAGA sistem ve optik çoklayıcı (multiplexer) veri sayfaları.
 - **Escene:** ES Serisi IP telefon kullanıcı rehberleri.
+
+
+### 6. Yeastar ([Dokümanları İncele / Dizin Tablosu](Yeastar/README.md))
+- **IP PBX Sistemleri:** P-Serisi (P550, P560, P570, P-Software Edition), S-Serisi (S20, S50, S100, S300), K2 Kurumsal Santraller.
+- **VoIP Ağ Geçitleri:** TA FXS/FXO Analog Gateway, TG VoIP GSM/LTE Gateway, TE E1/PRI Gateway, TB BRI Gateway.
+- **Linkus & Entegrasyonlar:** Linkus Desktop/Mobile/Web Client kılavuzları, Teams & Microsoft 365 entegrasyon çözümleri, teknik şartnameler ve uluslararası CE/FCC test raporları.
+
+### 7. Openvox ([Dokümanları İncele / Dizin Tablosu](Openvox/README.md))
+- **Kablosuz Ağ Geçitleri (VoIP GSM Gateway):** SWG-3008, SWG-3016, SWG-3032 serisi kullanım kılavuzları ve veri sayfaları.
+- **IP PBX & Santraller:** UC1000 ve UC120P serisi santraller, Türkçe kurulum kılavuzları ve CE-LVD/EMC uygunluk sertifikaları.
 
 ---
 *Tüm dökümanlar ilgili üreticilerin resmi kamuya açık yayınlarıdır ve teknik destek amacıyla arşivlenmiştir.*
